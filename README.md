@@ -34,4 +34,4 @@ Sistema web desarrollado en PHP y MySQL para la administración de restaurantes
 ## Autor
 Eduardo Hernández Campos
 
-Desarrollado como proyecto de gestión integral para restaurantes y pizzerías.
+Desarrollado como proyecto de gestión integral para restaurantes.
